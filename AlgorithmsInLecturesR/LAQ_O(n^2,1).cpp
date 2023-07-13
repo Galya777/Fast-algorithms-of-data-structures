@@ -51,4 +51,7 @@ void solve() {
         (a == -1) ? cout << "no such ancestor\n" : cout << a << '\n';
     }
 }
-
+int main() {
+    ios;
+    return init(), dfs(), build(), solve(), 0;
+}
