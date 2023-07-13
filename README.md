@@ -1,4 +1,4 @@
-## Fast Algorithms in Data Structures
+## Fast Algorithms of Data Structures
 
 Lecture | Topic | Solution
 :-|:-:|-:
