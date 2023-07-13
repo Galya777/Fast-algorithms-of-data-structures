@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AlgorithmsInLecturesR.cpp" />
-    <ClCompile Include="LAQ_O%28n^2,1%29.h" />
+    <ClCompile Include="LAQ_O%28n^2,1%29.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
