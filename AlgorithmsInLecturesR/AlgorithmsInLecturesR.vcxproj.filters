@@ -21,5 +21,8 @@
     <ClCompile Include="LAQ_O%28n^2,1%29.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LAQ_O(n.sqrt(n)).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
