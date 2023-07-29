@@ -128,8 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AlgorithmsInLecturesR.cpp" />
+    <ClCompile Include="LAQO(nlog(n),log(n).cpp" />
     <ClCompile Include="LAQ_O%28n^2,1%29.cpp" />
+    <ClCompile Include="LAQ_O(n,log(n)).cpp" />
+    <ClCompile Include="LAQ_O(n,log(n))Ladders.cpp" />
     <ClCompile Include="LAQ_O(n.sqrt(n)).cpp" />
+    <ClCompile Include="LAQ_O(nlog(n),1).cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
