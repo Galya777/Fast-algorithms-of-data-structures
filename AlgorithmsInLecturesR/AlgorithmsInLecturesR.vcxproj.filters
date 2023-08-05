@@ -36,5 +36,14 @@
     <ClCompile Include="LAQ_O(nlog(n),1).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LCA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Distance Query.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Distance Query–2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
