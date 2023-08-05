@@ -13,6 +13,4 @@ Lecture | Topic | Code
 [Lecture 13](https://github.com/Galya777/Fast-algorithms-of-data-structures/blob/master/AlgorithmsInLecturesR/lecturesTheory/L13_Dynamization%20pt.1.pdf)<br>[Lecture 14](https://github.com/Galya777/Fast-algorithms-of-data-structures/blob/master/AlgorithmsInLecturesR/lecturesTheory/L13_Dynamization%20pt.1.pdf)|Dynamization of Static Data Structures|
 
 
-[USP2019-W8-A](https://www.hackerrank.com/auth/login/usp2019-week-5)|[USP2019-W8-A (Range sum and reverse).cpp](https://github.com/andy489/Fast_Algorithms_in_Data_Structures/blob/main/Treap%20(Cartesian%20Tree)/Problems/USP2019-W8-A.cpp)
-
 
