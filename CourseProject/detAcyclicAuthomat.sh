@@ -3,7 +3,7 @@
 
 input_string=$1
 
-result=$(c++ dfa_program.cpp $input_string)
+result=$(c++ CourseProject.cpp $input_string)
 
 if [ $result == "True" ]; then
     echo "Input string is accepted by the DFA"
